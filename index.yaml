@@ -3,7 +3,7 @@ entries:
   key-value-bundle:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-22T13:19:58.014915+03:00"
+    created: "2022-07-25T20:41:04.993219+03:00"
     dependencies:
     - name: server
       repository: file://../server
@@ -12,10 +12,10 @@ entries:
       repository: file://../operator
       version: 0.1.0
     description: Key-value chart
-    digest: 2a5520a4a8be6844fc7f28f0de4002f31b4df2da655e87f2343df00ece97fad1
+    digest: 9385949d119c73af2927da87c156cbe5d7e2462ddb550ca673023a4fe6ecd4bf
     name: key-value-bundle
     type: application
     urls:
     - https://dmytrovorona.github.io/key-value-helm/key-value-bundle-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-22T13:19:58.01139+03:00"
+generated: "2022-07-25T20:41:04.990448+03:00"
